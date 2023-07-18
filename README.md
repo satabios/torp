@@ -3,9 +3,9 @@
 This is a Pytorch Helper package aimed to aid the workflow of deep learning model development and deployment. 
 
 
-1. (1) This packages has boiler plate defintions that can ease the development of torch model development
-2. (2) Pruning Techniques are being imported from Tomoco Package
-3. (3) Model Quantization and Deployment features are in the development pipeline which will be available for use soon.
+1. This packages has boiler plate defintions that can ease the development of torch model development
+2. Pruning Techniques are being imported from Tomoco Package
+3. Model Quantization and Deployment features are in the development pipeline which will be available for use soon.
 ## Package install:
 
 ```python
