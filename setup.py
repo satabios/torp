@@ -7,7 +7,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='Torch Helper',
-    version='0.0.6',
+    version='0.0.3',
     description='TORch helpeR',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n',
@@ -30,4 +30,4 @@ if __name__ == '__main__':
         with open(requirement_path) as f:
             install_requires = f.read().splitlines()
     print(install_requires)
-    setup(name="torch-model-compression", install_requires=install_requires)
+    setup(name="torp", version='0.0.5',install_requires=install_requires)

@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+torp/__init__.py
+torp/helper.py
+torp.egg-info/PKG-INFO
+torp.egg-info/SOURCES.txt
+torp.egg-info/dependency_links.txt
+torp.egg-info/top_level.txt
